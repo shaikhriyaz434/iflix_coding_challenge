@@ -1,10 +1,14 @@
-**I already did solve the problem and this approarch is rejected so i am looking for better solution.**
- please read `submission.md` for more details
-**Please read through this entire file before starting the test.**
 
+ 
+
+
+## I already did solve the problem and this approarch is rejected so i am looking for better solution.
+ please read `submission.md` for more details
+
+## Please read through this entire file before starting the test
 At iflix, we give our users free access through Partner networks - mobile or broadband, and we call these Offers. It's up to the partner how many months of free sweet sweet iflix each person gets. This assignment is focussed around solving a simplified version of that logic.
 
-## Inputs
+ Inputs
 
 We've provided you two three different inputs into your solution. These are located within the `/data` path. You will need to use all of them:
 
