@@ -1,0 +1,33 @@
+{
+  "name": "iflix_coding_test",
+  "version": "1.0.0",
+  "description": "iflix Coding Assignment!",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iflix-letsplay/coding-test.git"
+  },
+  "author": "Shaikh Riyaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iflix-letsplay/coding-test/issues"
+  },
+  "homepage": "https://github.com/iflix-letsplay/coding-test#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
